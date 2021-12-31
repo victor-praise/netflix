@@ -1,4 +1,4 @@
-#LIVE DEMO: netflix-clone-7c1df2.netlify.app
+# LIVE DEMO: https://netflix-clone-7c1df2.netlify.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
